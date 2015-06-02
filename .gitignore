@@ -42,10 +42,10 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
+BLSim/[Ll]ibrary/
+BLSim/[Tt]emp/
+BLSim/[Oo]bj/
+BLSim/[Bb]uild/
 
 Temp
 Library
