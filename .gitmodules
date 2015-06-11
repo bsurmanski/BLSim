@@ -1,0 +1,3 @@
+[submodule "BLSim/Assets/arduino"]
+	path = BLSim/Assets/arduino
+	url = https://github.com/bsurmanski/ArduinoEmu
